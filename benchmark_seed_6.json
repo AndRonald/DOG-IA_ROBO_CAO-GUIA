@@ -1,0 +1,416 @@
+{
+  "resumo": {
+    "seed": 6,
+    "viagens": 20,
+    "sucessos": 20,
+    "taxa_sucesso": 1.0,
+    "tempo_medio_s": 13.47,
+    "colisoes": 0,
+    "quase_colisoes": 0,
+    "freios_emergencia": 0
+  },
+  "resultados": [
+    {
+      "viagem": 1,
+      "destino": "Mercado",
+      "sucesso": true,
+      "chegou": true,
+      "estado_final": "DESTINO_ALCANCADO",
+      "tempo": 13.9,
+      "distancia": 907.443,
+      "alertas_vermelhos": 0,
+      "freios_emergencia": 0,
+      "viagens_concluidas": 1,
+      "colisoes": 0,
+      "quase_colisoes": 0,
+      "estados": [
+        "SEGUINDO_ROTA",
+        "AGUARDANDO_SINAL",
+        "ATRAVESSANDO",
+        "SEGUINDO_ROTA",
+        "DESTINO_ALCANCADO"
+      ]
+    },
+    {
+      "viagem": 2,
+      "destino": "Casa",
+      "sucesso": true,
+      "chegou": true,
+      "estado_final": "DESTINO_ALCANCADO",
+      "tempo": 16.783,
+      "distancia": 914.615,
+      "alertas_vermelhos": 0,
+      "freios_emergencia": 0,
+      "viagens_concluidas": 1,
+      "colisoes": 0,
+      "quase_colisoes": 0,
+      "estados": [
+        "SEGUINDO_ROTA",
+        "AGUARDANDO_SINAL",
+        "ATRAVESSANDO",
+        "SEGUINDO_ROTA",
+        "DESTINO_ALCANCADO"
+      ]
+    },
+    {
+      "viagem": 3,
+      "destino": "Farmácia",
+      "sucesso": true,
+      "chegou": true,
+      "estado_final": "DESTINO_ALCANCADO",
+      "tempo": 16.567,
+      "distancia": 1220.39,
+      "alertas_vermelhos": 0,
+      "freios_emergencia": 0,
+      "viagens_concluidas": 1,
+      "colisoes": 0,
+      "quase_colisoes": 0,
+      "estados": [
+        "SEGUINDO_ROTA",
+        "AGUARDANDO_SINAL",
+        "ATRAVESSANDO",
+        "SEGUINDO_ROTA",
+        "DESTINO_ALCANCADO"
+      ]
+    },
+    {
+      "viagem": 4,
+      "destino": "Casa",
+      "sucesso": true,
+      "chegou": true,
+      "estado_final": "DESTINO_ALCANCADO",
+      "tempo": 16.783,
+      "distancia": 1221.803,
+      "alertas_vermelhos": 0,
+      "freios_emergencia": 0,
+      "viagens_concluidas": 1,
+      "colisoes": 0,
+      "quase_colisoes": 0,
+      "estados": [
+        "SEGUINDO_ROTA",
+        "AGUARDANDO_SINAL",
+        "ATRAVESSANDO",
+        "SEGUINDO_ROTA",
+        "DESTINO_ALCANCADO"
+      ]
+    },
+    {
+      "viagem": 5,
+      "destino": "Padaria",
+      "sucesso": true,
+      "chegou": true,
+      "estado_final": "DESTINO_ALCANCADO",
+      "tempo": 7.183,
+      "distancia": 693.301,
+      "alertas_vermelhos": 0,
+      "freios_emergencia": 0,
+      "viagens_concluidas": 1,
+      "colisoes": 0,
+      "quase_colisoes": 0,
+      "estados": [
+        "SEGUINDO_ROTA",
+        "DESTINO_ALCANCADO"
+      ]
+    },
+    {
+      "viagem": 6,
+      "destino": "Casa",
+      "sucesso": true,
+      "chegou": true,
+      "estado_final": "DESTINO_ALCANCADO",
+      "tempo": 8.05,
+      "distancia": 700.471,
+      "alertas_vermelhos": 0,
+      "freios_emergencia": 0,
+      "viagens_concluidas": 1,
+      "colisoes": 0,
+      "quase_colisoes": 0,
+      "estados": [
+        "SEGUINDO_ROTA",
+        "DESTINO_ALCANCADO"
+      ]
+    },
+    {
+      "viagem": 7,
+      "destino": "Mercado",
+      "sucesso": true,
+      "chegou": true,
+      "estado_final": "DESTINO_ALCANCADO",
+      "tempo": 13.433,
+      "distancia": 907.443,
+      "alertas_vermelhos": 0,
+      "freios_emergencia": 0,
+      "viagens_concluidas": 1,
+      "colisoes": 0,
+      "quase_colisoes": 0,
+      "estados": [
+        "SEGUINDO_ROTA",
+        "AGUARDANDO_SINAL",
+        "ATRAVESSANDO",
+        "SEGUINDO_ROTA",
+        "DESTINO_ALCANCADO"
+      ]
+    },
+    {
+      "viagem": 8,
+      "destino": "Casa",
+      "sucesso": true,
+      "chegou": true,
+      "estado_final": "DESTINO_ALCANCADO",
+      "tempo": 16.783,
+      "distancia": 914.615,
+      "alertas_vermelhos": 0,
+      "freios_emergencia": 0,
+      "viagens_concluidas": 1,
+      "colisoes": 0,
+      "quase_colisoes": 0,
+      "estados": [
+        "SEGUINDO_ROTA",
+        "AGUARDANDO_SINAL",
+        "ATRAVESSANDO",
+        "SEGUINDO_ROTA",
+        "DESTINO_ALCANCADO"
+      ]
+    },
+    {
+      "viagem": 9,
+      "destino": "Farmácia",
+      "sucesso": true,
+      "chegou": true,
+      "estado_final": "DESTINO_ALCANCADO",
+      "tempo": 16.567,
+      "distancia": 1220.39,
+      "alertas_vermelhos": 0,
+      "freios_emergencia": 0,
+      "viagens_concluidas": 1,
+      "colisoes": 0,
+      "quase_colisoes": 0,
+      "estados": [
+        "SEGUINDO_ROTA",
+        "AGUARDANDO_SINAL",
+        "ATRAVESSANDO",
+        "SEGUINDO_ROTA",
+        "DESTINO_ALCANCADO"
+      ]
+    },
+    {
+      "viagem": 10,
+      "destino": "Casa",
+      "sucesso": true,
+      "chegou": true,
+      "estado_final": "DESTINO_ALCANCADO",
+      "tempo": 17.55,
+      "distancia": 1221.803,
+      "alertas_vermelhos": 0,
+      "freios_emergencia": 0,
+      "viagens_concluidas": 1,
+      "colisoes": 0,
+      "quase_colisoes": 0,
+      "estados": [
+        "SEGUINDO_ROTA",
+        "AGUARDANDO_SINAL",
+        "ATRAVESSANDO",
+        "SEGUINDO_ROTA",
+        "DESTINO_ALCANCADO"
+      ]
+    },
+    {
+      "viagem": 11,
+      "destino": "Padaria",
+      "sucesso": true,
+      "chegou": true,
+      "estado_final": "DESTINO_ALCANCADO",
+      "tempo": 7.183,
+      "distancia": 693.301,
+      "alertas_vermelhos": 0,
+      "freios_emergencia": 0,
+      "viagens_concluidas": 1,
+      "colisoes": 0,
+      "quase_colisoes": 0,
+      "estados": [
+        "SEGUINDO_ROTA",
+        "DESTINO_ALCANCADO"
+      ]
+    },
+    {
+      "viagem": 12,
+      "destino": "Casa",
+      "sucesso": true,
+      "chegou": true,
+      "estado_final": "DESTINO_ALCANCADO",
+      "tempo": 8.05,
+      "distancia": 700.471,
+      "alertas_vermelhos": 0,
+      "freios_emergencia": 0,
+      "viagens_concluidas": 1,
+      "colisoes": 0,
+      "quase_colisoes": 0,
+      "estados": [
+        "SEGUINDO_ROTA",
+        "DESTINO_ALCANCADO"
+      ]
+    },
+    {
+      "viagem": 13,
+      "destino": "Mercado",
+      "sucesso": true,
+      "chegou": true,
+      "estado_final": "DESTINO_ALCANCADO",
+      "tempo": 13.433,
+      "distancia": 907.443,
+      "alertas_vermelhos": 0,
+      "freios_emergencia": 0,
+      "viagens_concluidas": 1,
+      "colisoes": 0,
+      "quase_colisoes": 0,
+      "estados": [
+        "SEGUINDO_ROTA",
+        "AGUARDANDO_SINAL",
+        "ATRAVESSANDO",
+        "SEGUINDO_ROTA",
+        "DESTINO_ALCANCADO"
+      ]
+    },
+    {
+      "viagem": 14,
+      "destino": "Casa",
+      "sucesso": true,
+      "chegou": true,
+      "estado_final": "DESTINO_ALCANCADO",
+      "tempo": 16.783,
+      "distancia": 914.615,
+      "alertas_vermelhos": 0,
+      "freios_emergencia": 0,
+      "viagens_concluidas": 1,
+      "colisoes": 0,
+      "quase_colisoes": 0,
+      "estados": [
+        "SEGUINDO_ROTA",
+        "AGUARDANDO_SINAL",
+        "ATRAVESSANDO",
+        "SEGUINDO_ROTA",
+        "DESTINO_ALCANCADO"
+      ]
+    },
+    {
+      "viagem": 15,
+      "destino": "Farmácia",
+      "sucesso": true,
+      "chegou": true,
+      "estado_final": "DESTINO_ALCANCADO",
+      "tempo": 16.567,
+      "distancia": 1220.39,
+      "alertas_vermelhos": 0,
+      "freios_emergencia": 0,
+      "viagens_concluidas": 1,
+      "colisoes": 0,
+      "quase_colisoes": 0,
+      "estados": [
+        "SEGUINDO_ROTA",
+        "AGUARDANDO_SINAL",
+        "ATRAVESSANDO",
+        "SEGUINDO_ROTA",
+        "DESTINO_ALCANCADO"
+      ]
+    },
+    {
+      "viagem": 16,
+      "destino": "Casa",
+      "sucesso": true,
+      "chegou": true,
+      "estado_final": "DESTINO_ALCANCADO",
+      "tempo": 18.333,
+      "distancia": 1221.803,
+      "alertas_vermelhos": 0,
+      "freios_emergencia": 0,
+      "viagens_concluidas": 1,
+      "colisoes": 0,
+      "quase_colisoes": 0,
+      "estados": [
+        "SEGUINDO_ROTA",
+        "AGUARDANDO_SINAL",
+        "ATRAVESSANDO",
+        "SEGUINDO_ROTA",
+        "DESTINO_ALCANCADO"
+      ]
+    },
+    {
+      "viagem": 17,
+      "destino": "Padaria",
+      "sucesso": true,
+      "chegou": true,
+      "estado_final": "DESTINO_ALCANCADO",
+      "tempo": 7.183,
+      "distancia": 693.301,
+      "alertas_vermelhos": 0,
+      "freios_emergencia": 0,
+      "viagens_concluidas": 1,
+      "colisoes": 0,
+      "quase_colisoes": 0,
+      "estados": [
+        "SEGUINDO_ROTA",
+        "DESTINO_ALCANCADO"
+      ]
+    },
+    {
+      "viagem": 18,
+      "destino": "Casa",
+      "sucesso": true,
+      "chegou": true,
+      "estado_final": "DESTINO_ALCANCADO",
+      "tempo": 8.05,
+      "distancia": 700.471,
+      "alertas_vermelhos": 0,
+      "freios_emergencia": 0,
+      "viagens_concluidas": 1,
+      "colisoes": 0,
+      "quase_colisoes": 0,
+      "estados": [
+        "SEGUINDO_ROTA",
+        "DESTINO_ALCANCADO"
+      ]
+    },
+    {
+      "viagem": 19,
+      "destino": "Mercado",
+      "sucesso": true,
+      "chegou": true,
+      "estado_final": "DESTINO_ALCANCADO",
+      "tempo": 13.433,
+      "distancia": 907.443,
+      "alertas_vermelhos": 0,
+      "freios_emergencia": 0,
+      "viagens_concluidas": 1,
+      "colisoes": 0,
+      "quase_colisoes": 0,
+      "estados": [
+        "SEGUINDO_ROTA",
+        "AGUARDANDO_SINAL",
+        "ATRAVESSANDO",
+        "SEGUINDO_ROTA",
+        "DESTINO_ALCANCADO"
+      ]
+    },
+    {
+      "viagem": 20,
+      "destino": "Casa",
+      "sucesso": true,
+      "chegou": true,
+      "estado_final": "DESTINO_ALCANCADO",
+      "tempo": 16.783,
+      "distancia": 914.615,
+      "alertas_vermelhos": 0,
+      "freios_emergencia": 0,
+      "viagens_concluidas": 1,
+      "colisoes": 0,
+      "quase_colisoes": 0,
+      "estados": [
+        "SEGUINDO_ROTA",
+        "AGUARDANDO_SINAL",
+        "ATRAVESSANDO",
+        "SEGUINDO_ROTA",
+        "DESTINO_ALCANCADO"
+      ]
+    }
+  ]
+}
