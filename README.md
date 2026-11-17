@@ -1,11 +1,13 @@
 DOG-IA_ROBO_CAO-GUIA
 DOG-IA V2 — AC-4
-Integrantes
-R.A.	Nome
-100954	Pedro Augusto Brito Castilho Pereira
-99242	Gustavo Mattos da Silva
-102648	Ronald Araujo Viana
-Apresentação do projeto
+
+# Integrantes
+
+| R.A. | Nome |
+|---|---|
+| 100954 | Pedro Augusto Brito Castilho Pereira |
+| 99242 | Gustavo Mattos da Silva |
+| 102648 | Ronald Araujo Viana |
 
 O arquivo principal do projeto é o dog_ia_v2.py. Ele preserva os recursos gráficos presentes no código original e incorpora as novas melhorias por meio de classes simples, com explicações e comentários em português.
 
